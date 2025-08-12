@@ -1,9 +1,9 @@
 import pandas as pd  # Import pandas library for data manipulation
 def load_data():
     # Load cleaned CSV data files for each country from the specified directory
-    benin = pd.read_csv(r"C:\Users\user\Desktop\tasks\solar-challenge-week1\data\benin_clean.csv")
-    togo = pd.read_csv(r"C:\Users\user\Desktop\tasks\solar-challenge-week1\data\togo_clean.csv")
-    sierra = pd.read_csv(r"C:\Users\user\Desktop\tasks\solar-challenge-week1\data\sierraleone_clean.csv")
+    benin = pd.read_csv(r"C:\Users\user\Desktop\tasks\Cross-Country-Solar-Farm-Analysis\data\processed\benin_clean.csv")
+    togo = pd.read_csv(r"C:\Users\user\Desktop\tasks\Cross-Country-Solar-Farm-Analysis\data\processed\togo_clean.csv")
+    sierra = pd.read_csv(r"C:\Users\user\Desktop\tasks\Cross-Country-Solar-Farm-Analysis\data\processed\sierraleone_clean.csv")
 
 
 # Temporary comment to test git change detection
