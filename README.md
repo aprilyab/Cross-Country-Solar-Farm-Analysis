@@ -137,6 +137,7 @@ From the project root, run:
 
       streamlit run app/main.py
 ```
+Local URL: http://localhost:8501
 
 Use the sidebar to:
 
