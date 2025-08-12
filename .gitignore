@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Data files (never commit raw or processed large files)
+data/raw/
+data/processed/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode files
+.vscode/
+
+# Python cache and logs
+*.log
+
+# Streamlit generated files
+.streamlit/
+
+# macOS system files
+.DS_Store
+
+# Python test cache
+.pytest_cache/
+
+# Misc
+*.swp
