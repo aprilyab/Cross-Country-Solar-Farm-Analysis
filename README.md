@@ -190,3 +190,8 @@ Each notebook contains:
 | Dashboard + visual summaries |  Interactive Streamlit app with shared utils |
 | Git commits & PR hygiene |  Followed Git feature branching           |
 
+**Contact**:
+  Author:Henok Yoseph
+  Email: henokapril@gmail.com
+  github: https://github.com/aprilyab 
+
